@@ -27,9 +27,9 @@ Here is our sequence diagram for our system:
 ## Technical Details
 Here is our tech stack:
 - fronend: JavaScript, HTML, CSS, React
-- backend: Python, Django
-- database: Google Sheets
-- APIs: Google Calendar, Google Sheets
+- backend: Python
+- data store: Google Sheets
+- APIs: Google Calendar, Google Sheets, OR-Tools
 
 ## Development Progress
 During sprint 1, we got several things done. We set up our tools and technologies that we are going to use, we met with our sponsors to discuss the requirements for the project with them, we selected our tech stack and created a couple of diagrams as shown above, and we started development of the frontend and the backend.
