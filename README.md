@@ -27,14 +27,16 @@ Here is our sequence diagram for our system:
 ## Technical Details
 Here is our tech stack:
 - fronend: JavaScript, HTML, CSS, React
-- backend: Python
+- backend: Python, Flask
 - data store: Google Sheets
-- APIs: Google Calendar, Google Sheets, OR-Tools
+- APIs: Google Calendar, Google Sheets, OR-Tools, Firebase
 
 ## Development Progress
 During sprint 1, we got several things done. We set up our tools and technologies that we are going to use, we met with our sponsors to discuss the requirements for the project with them, we selected our tech stack and created a couple of diagrams as shown above, and we started development of the frontend and the backend.
 
 During sprint 2, we got a lot of the code implementation done. For the frontend, we created all of the web pages that we discussed as a team. This includes a home page, a page to view/edit the shifts and the employees, and a page to view/edit and export the generated schedule. For the backend, we integrated all of the APIs listed above. This includes the Google Calendar API for scheduling integration, the Google Sheets API for importing data, and OR-Tools for scheduling optimization.
 
-## Demo
-Here is the link to the demo: https://drive.google.com/file/d/1dzF8VBiCae0dAwoimjt2QOVJ0p3KjdNe/view?usp=sharing
+During sprint 3, we connected the frontend and the backend together. This was done using the Flask framework. Also, we added functionality for adding/removing a shift or an employee. Another feature we worked on was authentication with Firebase so that only authorized people have access to the web app.
+
+## Demos
+Here is the link to the demo from sprint 2: https://drive.google.com/file/d/1dzF8VBiCae0dAwoimjt2QOVJ0p3KjdNe/view?usp=sharing
