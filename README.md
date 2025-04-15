@@ -40,3 +40,20 @@ During sprint 3, we connected the frontend and the backend together. This was do
 
 ## Demos
 Here is the link to the demo from sprint 2: https://drive.google.com/file/d/1dzF8VBiCae0dAwoimjt2QOVJ0p3KjdNe/view?usp=sharing
+
+Here is the link to the demo from sprint 3: https://drive.google.com/file/d/1kHadMCxSfuQ7E4rSGD43-1uN_LQziU1Y/view?usp=sharing
+
+## Project in Review
+The requirements that we successfully met were authentication so that only authorized users can access the web app, a simple and easy to navigate UI, and schedule generation. The requirements that we did not meet or need to finish are displaying and exporting the generated schedule.
+
+## Lessons Learned
+There are a couple of lessons that we learned while doing this project. The first one is that we should have started implementing authentication earlier. We did not work on it until sprint 3. Because of this, we did not have enough time to implement it in the best way. The other lesson that we learned was we should have maintained consistent development progress throughout the entire semester. Near spring break, we slowed down and it took us a little bit of time to get back into the swing of things.
+
+## Contributions
+Justin: facilitated meetings, assigned tasks to team members, assisted frontend and backend development
+
+Adam: set up model to generate the schedule with OR-Tools, utilized Google APIs to gather employee information
+
+Philip: data storage from Google Sheets, user authentication and its constraints
+
+Zejian: created web pages with React, helped design UI, and added CSS styling
