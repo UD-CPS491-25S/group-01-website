@@ -41,7 +41,7 @@ During sprint 3, we connected the frontend and the backend together. This was do
 ## Demos
 Here is the link to the demo from sprint 2: https://drive.google.com/file/d/1dzF8VBiCae0dAwoimjt2QOVJ0p3KjdNe/view?usp=sharing
 
-Here is the link to the demo from sprint 3: https://drive.google.com/file/d/1kHadMCxSfuQ7E4rSGD43-1uN_LQziU1Y/view?usp=sharing
+Here is the link to the demo from sprint 3: https://drive.google.com/file/d/16QVnGpW0FCRLX4QT_g-8Fro--7iY9l7R/view?usp=sharing
 
 ## Project in Review
 The requirements that we successfully met were authentication so that only authorized users can access the web app, a simple and easy to navigate UI, and schedule generation. The requirements that we did not meet or need to finish are displaying and exporting the generated schedule.
